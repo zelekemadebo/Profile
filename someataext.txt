@@ -1,0 +1,6 @@
+To creste some inportant things follow this pattern
+"npm create vite@latest profile" after this follow this 
+"cd profile
+  npm install
+  npm run dev
+"
